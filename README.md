@@ -9,10 +9,10 @@ Currently in my senior year of Bachelor studies in Informatics & Telecommunicati
 * :computer: HTML / CSS / JAVA / PHP || Web Develepment
 
 ## I'm currently:
-- 🔭 working on my first website. Expecting it to go public early October. 
+- 🔭 working on my first website. Expecting it to go public early October.
+- :man_teacher: preparing high school students for their National Exams (Programming Course).
 - 🌱 learning the most interesting and useful technologies (yet!) during my last year of uni, including: <br>
 Deep Machine Learning (Python), Database Management (SQL, Python), Web Development (HTML, CSS, JS, PHP) and more!
-- :man_teacher: preparing high school students for their National Exams (Programming Course).
 - :chart_with_upwards_trend: looking for the first substantial step in my professional career. <br>
 ***Specifically:*** **an internship as a software dev/engineer during the Fall of 2025 as a post-graduate.**
 
