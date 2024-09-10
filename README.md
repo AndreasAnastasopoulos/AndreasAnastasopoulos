@@ -1,3 +1,4 @@
+![SocialLinkedin_0924_S1584x396-px](https://github.com/user-attachments/assets/9a401d45-582a-49fb-b37f-fec75754eb65)
 ### Hi there 👋, my name is Andreas
 #### I am an aspiring Software Engineer
 ![I am an aspiring Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
