@@ -1,10 +1,13 @@
-### Hi there 👋, my name is Andreas
-#### I am an aspiring Software Engineer
 ![I am an aspiring Software Engineer](https://github.com/user-attachments/assets/9a401d45-582a-49fb-b37f-fec75754eb65)
-
+#  Andreas Anastasopoulos
+## I am an aspiring Software Engineer
 Currently in my senior year of Bachelor studies in Informatics & Telecommunications with a major in Computer Science and Data Management at the National and Kapodistrian University of Athens.
 
-Skills: C / C++ / PYTHON / JAVA / HTML / CSS / JS
+## Skills and Experience:
+:man_technologist: C / PYTHON => Algorithms & Data Structures
+:dart: C++ / JAVA => Object-Oriented Programming
+:computer: HTML / CSS / JAVA / PHP => Web Develepment
+
 
 - 🔭 I’m currently working on my first website. Expecting it to go public early October. 
 - 🌱 I’m currently learning the most interesting and useful technologies (yet!) during my last year of uni, including: Deep Machine Learning (Python), Database Management (SQL, Python), Web Development (HTML, CSS, JS, PHP) and more! 
