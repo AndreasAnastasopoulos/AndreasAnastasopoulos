@@ -4,9 +4,9 @@
 Currently in my senior year of Bachelor studies in Informatics & Telecommunications with a major in Computer Science and Data Management at the National and Kapodistrian University of Athens.
 
 ## Skills and Experience:
-* :man_technologist: C / PYTHON // Algorithms & Data Structures
-* :dart: C++ / JAVA // Object-Oriented Programming
-* :computer: HTML / CSS / JAVA / PHP // Web Develepment
+* :man_technologist: C / PYTHON || Algorithms & Data Structures
+* :dart: C++ / JAVA || Object-Oriented Programming
+* :computer: HTML / CSS / JAVA / PHP || Web Develepment
 
 ## I'm currently:
 - 🔭 working on my first website. Expecting it to go public early October. 
