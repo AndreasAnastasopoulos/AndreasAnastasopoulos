@@ -12,7 +12,7 @@ Currently in my senior year of Bachelor studies in Informatics & Telecommunicati
 - 🔭 working on my first website. Expecting it to go public early October. 
 - 🌱 learning the most interesting and useful technologies (yet!) during my last year of uni, including: Deep Machine Learning (Python), Database Management (SQL, Python), Web Development (HTML, CSS, JS, PHP) and more!
 - :man_teacher: preparing high school students for their National Exams (Programming Course).
-- :chart_with_upwards_trend: looking for the first substantial step in my professional career.   Specifically: **an internship as a software dev/engineer during the Fall of 2025 as a post-graduate.**
+- :chart_with_upwards_trend: looking for the first substantial step in my professional career. <br>  Specifically: **an internship as a software dev/engineer during the Fall of 2025 as a post-graduate.**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreasAnastasopoulos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andreas-anastasopoulos-9904a0244/)  
