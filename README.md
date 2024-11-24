@@ -1,6 +1,6 @@
 ![I am an aspiring Software Engineer](https://github.com/user-attachments/assets/9a401d45-582a-49fb-b37f-fec75754eb65)
 #  Andreas Anastasopoulos
-## I am an aspiring Software Engineer
+## Software Developer
 Currently in my senior year of Bachelor studies in Informatics & Telecommunications with a major in Computer Science and Data Management at the National and Kapodistrian University of Athens.
 
 ## Skills and Experience:
