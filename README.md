@@ -4,16 +4,16 @@
 Currently in my senior year of Bachelor studies in Informatics & Telecommunications with a major in Computer Science and Data Management at the National and Kapodistrian University of Athens.
 
 ## Skills and Experience:
-* :man_technologist: C / PYTHON || Algorithms & Data Structures
-* :dart: C++ / JAVA || Object-Oriented Programming
-* :computer: HTML / CSS / JAVA / PHP || Web Develepment
+* C / PYTHON || Algorithms & Data Structures
+* C++ / JAVA || Object-Oriented Programming
+* HTML / CSS / JAVASCRIPT / PHP || Web Develepment
 
 ## I'm currently:
-- 🔭 working on my first website. Expecting it to go public early October.
-- :man_teacher: preparing high school students for their National Exams (Programming Course).
-- 🌱 learning the most interesting and useful technologies (yet!) during my last year of uni, including: <br>
+- Building my first website as a freelance developer for a local Holistic Spa business. Two more are also on the way! 
+- Preparing high school students for their National Exams (Programming Course).
+- Learning the most interesting and useful technologies (yet!) during my last year of uni, including: <br>
 Deep Machine Learning (Python), Database Management (SQL, Python), Web Development (HTML, CSS, JS, PHP) and more!
-- :chart_with_upwards_trend: looking for the first substantial step in my professional career. <br>
+- Looking for the first substantial step in my professional career. <br>
 ***Specifically:*** **an internship as a software dev/engineer during the Fall of 2025 as a post-graduate.**
 
 
