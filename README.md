@@ -8,7 +8,7 @@ Currently in my senior year of Bachelor studies in Informatics & Telecommunicati
 * HTML / CSS / JAVASCRIPT / PHP || Web Develepment
 
 ## I'm currently:
-- Building my first two websites as a freelance developer for a holistic spa business and a local construction company. They are both set to be uploaded before the end of the year! 
+- Building my second website as a freelance developer for a local construction company (more to be announced soon). Really proud of my first one, feel free to check it out: https://housespaholistic.com/  
 - Preparing high school students for their National Exams (Programming Course).
 - Learning the most interesting and useful technologies (yet!) during my last year of uni, including: <br>
 Deep Machine Learning (Python), Database Management (SQL, Python), Web Development (HTML, CSS, JS, PHP) and more!
