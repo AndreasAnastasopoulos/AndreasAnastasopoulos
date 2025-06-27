@@ -5,15 +5,11 @@ Currently in my senior year of Bachelor studies in Informatics & Telecommunicati
 ## Skills and Experience:
 * C / PYTHON || Algorithms & Data Structures
 * C++ / JAVA || Object-Oriented Programming
-* HTML / CSS / JAVASCRIPT / PHP || Web Develepment
+* HTML / CSS / JAVASCRIPT / PHP / Angular / SpringBoot / RESTful APIs || Web Develepment
 
-## I'm currently:
-- Building my second website as a freelance developer for a local construction company (more to be announced soon). Really proud of my first one, feel free to check it out: https://housespaholistic.com/  
-- Preparing high school students for their National Exams (Programming Course).
-- Learning the most interesting and useful technologies (yet!) during my last year of uni, including: <br>
-Deep Machine Learning (Python), Database Management (SQL, Python), Web Development (HTML, CSS, JS, PHP) and more!
-- Looking for the first substantial step in my professional career. <br>
-***Specifically:*** **an internship as a software dev/engineer during the Fall of 2025 as a post-graduate.**
+## Currently:
+- Designed and developed my first 2 custom-made websites: https://housespaholistic.com/ & https://crcconstruction.gr/ <br> as a preperation for my big summer project in uni: Developing an Online Auction Website with live bids, transactions, user sign up & sign in, text between sellers and buyers and more. During this process I discovered I love the process of designing and creating websites.
+- Looking for the first substantial step in my professional career.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreasAnastasopoulos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andreas-anastasopoulos-9904a0244/)  
