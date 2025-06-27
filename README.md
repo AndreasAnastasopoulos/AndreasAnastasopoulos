@@ -8,7 +8,7 @@ Currently in my senior year of Bachelor studies in Informatics & Telecommunicati
 * HTML / CSS / JAVASCRIPT / PHP / Angular / SpringBoot / RESTful APIs || Web Develepment
 
 ## Currently:
-- Designed and developed my first 2 custom-made websites: https://housespaholistic.com/ & https://crcconstruction.gr/ <br> as a preperation for my big summer project in uni: Developing an Online Auction Website with live bids, transactions, user sign up & sign in, text between sellers and buyers and more. During this process I discovered I love the process of designing and creating websites.
+- Designed and developed my first 2 custom-made websites: https://housespaholistic.com/ & https://crcconstruction.gr/ <br> as a preperation for my big summer project in uni: <br> Developing an Online Auction Website with live bids, transactions, user sign up & sign in, text between sellers and buyers and more. During this process I discovered I love the process of designing and creating websites.
 - Looking for the first substantial step in my professional career.
 
 
