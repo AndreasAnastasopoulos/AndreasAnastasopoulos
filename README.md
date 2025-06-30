@@ -1,20 +1,51 @@
-#  Andreas Anastasopoulos
-## Software Developer
-Currently in my senior year of Bachelor studies in Informatics & Telecommunications with a major in Computer Science and Data Management at the National and Kapodistrian University of Athens.
+# Hi there, I'm Andreas 👋
 
-## Skills and Experience:
-* C / PYTHON || Algorithms & Data Structures
-* C++ / JAVA || Object-Oriented Programming
-* HTML / CSS / JAVASCRIPT / PHP / Angular / SpringBoot / RESTful APIs || Web Develepment
+**Software Developer** | Final year CS student at University of Athens
 
-## Currently:
-- Designed and developed my first 2 custom-made websites: https://housespaholistic.com/ & https://crcconstruction.gr/ <br> as a preperation for my big summer project in uni: <br> Developing an Online Auction Website with live bids, transactions, user sign up & sign in, text between sellers and buyers and more. During this process I discovered I love the process of designing and creating websites.
-- Looking for the first substantial step in my professional career.
+🌐 **[Visit my website](YOUR_WEBSITE_URL_HERE)** | 💼 **Open to opportunities**
 
+## About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndreasAnastasopoulos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/andreas-anastasopoulos-9904a0244/)  
+I'm a passionate software developer in my final year studying Informatics & Telecommunications with a focus on Computer Science and Data Management at the National and Kapodistrian University of Athens. I love creating digital experiences and am actively seeking my first professional opportunity.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAnastasopoulos)](https://github.com/anuraghazra/github-readme-stats)
+## 🛠️ Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreasAnastasopoulos&show_icons=true)  
+**Languages:** Python • C/C++ • Java • JavaScript • PHP • HTML/CSS
 
+**Frameworks & Tools:** Angular • Spring Boot • RESTful APIs
+
+**Focus Areas:** Web Development • Algorithms & Data Structures • Object-Oriented Programming
+
+## 🚀 What I'm Working On
+
+Currently developing an **Online Auction Platform** featuring:
+- Real-time bidding system
+- Secure user authentication
+- Payment processing
+- Messaging between users
+- Modern, responsive design
+
+**Recent Projects:**
+- [Holistic Spa Website](https://housespaholistic.com/)
+- [Construction Company Site](https://crcconstruction.gr/)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreasAnastasopoulos&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreasAnastasopoulos&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-anastasopoulos-9904a0244/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreasAnastasopoulos)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_WEBSITE_URL_HERE)
+
+---
+<div align="center">
+  <i>💡 Always learning, always building</i>
+</div>
