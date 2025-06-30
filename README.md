@@ -1,12 +1,12 @@
 # Hi there, I'm Andreas 👋
 
-**Software Developer** | Final year CS student at University of Athens
+**Software Developer** | Final year CS student at the University of Athens
 
-🌐 **[Visit my website](YOUR_WEBSITE_URL_HERE)** | 💼 **Open to opportunities**
+🌐 **[Visit my website](https://andreasanastasopoulos.github.io/)** | 💼 **Open to opportunities**
 
 ## About Me
 
-I'm a passionate software developer in my final year studying Informatics & Telecommunications with a focus on Computer Science and Data Management at the National and Kapodistrian University of Athens. I love creating digital experiences and am actively seeking my first professional opportunity.
+I'm a passionate software developer in my final year studying Informatics & Telecommunications with a focus on Computer Science and Data Management at the National and Kapodistrian University of Athens. I love creating solutions and contributing and I am actively seeking my first professional opportunity.
 
 ## 🛠️ Tech Stack
 
@@ -41,9 +41,9 @@ Currently developing an **Online Auction Platform** featuring:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreas-anastasopoulos-9904a0244/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasopoulos-andreas)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndreasAnastasopoulos)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_WEBSITE_URL_HERE)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andreasanastasopoulos.github.io/)
 
 ---
 <div align="center">
