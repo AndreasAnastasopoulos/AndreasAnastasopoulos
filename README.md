@@ -2,7 +2,7 @@
 
 **Software Developer** | Final year CS student at the University of Athens
 
-🌐 **[Visit my website](https://andreasanastasopoulos.github.io/)** | 💼 **Open to opportunities**
+💼 **Open to opportunities**
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm a passionate software developer in my final year studying Informatics & Tele
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C/C++ • Java • JavaScript • PHP • HTML/CSS
+**Languages:** Python • C/C++ • Java • JavaScript • PHP • HTML/CSS • C#
 
 **Frameworks & Tools:** Angular • Spring Boot • RESTful APIs
 
